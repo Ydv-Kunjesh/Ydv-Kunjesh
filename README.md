@@ -31,5 +31,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ydv-kunjesh&show_icons=true&locale=en" alt="ydv-kunjesh" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ydv-kunjesh&" alt="ydv-kunjesh" /></p>
+<p><img align="center" src="https://th.bing.com/th/id/OIP.NGIDdVP6vw9ue_D-mrEVFQHaHa?w=172&h=180&c=7&r=0&o=5&dpr=1.3&pid=1.7&" alt="ydv-kunjesh" /></p>
 
